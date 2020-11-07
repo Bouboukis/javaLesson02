@@ -6,7 +6,7 @@ public class real {
         real02 = 102546.236954;
         System.out.println(real01 * real02);
 
-        // Do not use floats, only if you have memory constrains
+        // Do not use floats, only if you have memory constrains. Smaller size
         float real03 ;
         real03 = 0.4f;
         real03 = real03 * 2;
