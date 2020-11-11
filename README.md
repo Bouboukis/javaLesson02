@@ -5,4 +5,4 @@ I need to learn to work GitHub parallel to learning Java.
 It is a bit annoying.
 Lesson 01 is about the use of Integer.
 Lesson 02 is about the use of real numbers.
-Also Lesson 02 is about Boolean and char.
+Also, Lesson 02 is about Boolean and char.
