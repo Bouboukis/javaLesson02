@@ -1,4 +1,4 @@
-public class conversions {
+class conversions {
     public static void main(String[] args) {
         int i ;
         short s = 257;

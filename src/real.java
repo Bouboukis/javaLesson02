@@ -1,4 +1,4 @@
-public class real {
+class real {
     public static void main(String[] args){
 
         double real01, real02;

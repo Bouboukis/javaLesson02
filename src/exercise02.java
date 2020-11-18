@@ -1,4 +1,4 @@
-public class excercise02 {
+class exercise02 {
     public static void main(String[] args) {
 
         byte b1 = 1;

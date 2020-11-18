@@ -1,4 +1,4 @@
-public class charnbool {
+class charnbool {
     public static void main(String[] args){
         boolean b;
         char c = '\u4ADD';

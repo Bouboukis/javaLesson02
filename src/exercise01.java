@@ -1,4 +1,4 @@
-public class excercise01 {
+class exercise01 {
     public static void main(String[] args) {
         double pi = 3.14;
         System.out.println(pi);
