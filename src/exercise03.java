@@ -2,11 +2,11 @@ class exercise03 {
 
     public static void main(String[] args) {
 
-        String initialString = "Hello, World?";
-        System.out.println(initialString);
+        String s = "Initial String";
+        System.out.println(s);
 
-        initialString = "Hello, world, Again!";
-        System.out.print(initialString);
+        s = "New Initial String!";
+        System.out.print(s);
 
     }
 
